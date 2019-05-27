@@ -1,4 +1,4 @@
-# add-project
+# ad-project
 
 ## Project setup
 ```
